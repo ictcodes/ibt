@@ -1,0 +1,8 @@
+{
+  "name": "ibt",
+  "app_id": "2bc38f10",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
